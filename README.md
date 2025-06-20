@@ -1,5 +1,8 @@
 # 🐾 Cat vs Dog Classifier Comparison | Custom CNN vs VGG-16
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.7%2B-green.svg)](https://www.python.org/downloads/release/python-370/)
+
 ## 📋 Project Overview
 This project presents a **detailed comparison** between a **custom-designed CNN model** and a **pre-trained VGG-16 model** for classifying cat and dog images.  
 Both models are thoroughly evaluated using training/validation performance graphs, confusion matrices, classification reports, and a final comprehensive analysis.
